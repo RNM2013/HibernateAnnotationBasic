@@ -7,7 +7,7 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
 //POJO Class
-//change in BranchX
+//change in BranchX123
 @Entity
 @Table(name = "Emp")
 public class Employee {
