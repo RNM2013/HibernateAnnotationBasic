@@ -8,6 +8,7 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 //POJO Class
 //change in BranchX123
+//Added by RNM1982
 @Entity
 @Table(name = "Emp")
 public class Employee {
