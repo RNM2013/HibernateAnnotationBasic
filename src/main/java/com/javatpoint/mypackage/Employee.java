@@ -6,9 +6,7 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
-//POJO Class
-//change in BranchX123
-//Added by RNM1982
+//changes done as per review instruction
 @Entity
 @Table(name = "Emp")
 public class Employee {
